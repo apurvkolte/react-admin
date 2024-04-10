@@ -1,0 +1,1489 @@
+/*------ Icons List ------*/
+
+.browser {
+    width: 1.25rem;
+    height: 1.25rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+}
+
+.flag {
+    width: 1.6rem;
+    height: 1.2rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.flag-ad {
+    background-image: "/assets/img/flags/ad.svg";
+}
+
+.flag-ae {
+    background-image: "/assets/img/flags/ae.svg";
+}
+
+.flag-af {
+    background-image: "/assets/img/flags/af.svg";
+}
+
+.flag-ag {
+    background-image: "/assets/img/flags/ag.svg";
+}
+
+.flag-ai {
+    background-image: "/assets/img/flags/ai.svg";
+}
+
+.flag-al {
+    background-image: "/assets/img/flags/al.svg";
+}
+
+.flag-am {
+    background-image: "/assets/img/flags/am.svg";
+}
+
+.flag-ao {
+    background-image: "/assets/img/flags/ao.svg";
+}
+
+.flag-aq {
+    background-image: "/assets/img/flags/aq.svg";
+}
+
+.flag-ar {
+    background-image: "/assets/img/flags/ar.svg";
+}
+
+.flag-as {
+    background-image: "/assets/img/flags/as.svg";
+}
+
+.flag-at {
+    background-image: "/assets/img/flags/at.svg";
+}
+
+.flag-au {
+    background-image: "/assets/img/flags/au.svg";
+}
+
+.flag-aw {
+    background-image: "/assets/img/flags/aw.svg";
+}
+
+.flag-ax {
+    background-image: "/assets/img/flags/ax.svg";
+}
+
+.flag-az {
+    background-image: "/assets/img/flags/az.svg";
+}
+
+.flag-ba {
+    background-image: "/assets/img/flags/ba.svg";
+}
+
+.flag-bb {
+    background-image: "/assets/img/flags/bb.svg";
+}
+
+.flag-bd {
+    background-image: "/assets/img/flags/bd.svg";
+}
+
+.flag-be {
+    background-image: "/assets/img/flags/be.svg";
+}
+
+.flag-bf {
+    background-image: "/assets/img/flags/bf.svg";
+}
+
+.flag-bg {
+    background-image: "/assets/img/flags/bg.svg";
+}
+
+.flag-bh {
+    background-image: "/assets/img/flags/bh.svg";
+}
+
+.flag-bi {
+    background-image: "/assets/img/flags/bi.svg";
+}
+
+.flag-bj {
+    background-image: "/assets/img/flags/bj.svg";
+}
+
+.flag-bl {
+    background-image: "/assets/img/flags/bl.svg";
+}
+
+.flag-bm {
+    background-image: "/assets/img/flags/bm.svg";
+}
+
+.flag-bn {
+    background-image: "/assets/img/flags/bn.svg";
+}
+
+.flag-bo {
+    background-image: "/assets/img/flags/bo.svg";
+}
+
+.flag-bq {
+    background-image: "/assets/img/flags/bq.svg";
+}
+
+.flag-br {
+    background-image: "/assets/img/flags/br.svg";
+}
+
+.flag-bs {
+    background-image: "/assets/img/flags/bs.svg";
+}
+
+.flag-bt {
+    background-image: "/assets/img/flags/bt.svg";
+}
+
+.flag-bv {
+    background-image: "/assets/img/flags/bv.svg";
+}
+
+.flag-bw {
+    background-image: "/assets/img/flags/bw.svg";
+}
+
+.flag-by {
+    background-image: "/assets/img/flags/by.svg";
+}
+
+.flag-bz {
+    background-image: "/assets/img/flags/bz.svg";
+}
+
+.flag-ca {
+    background-image: "/assets/img/flags/ca.svg";
+}
+
+.flag-cc {
+    background-image: "/assets/img/flags/cc.svg";
+}
+
+.flag-cd {
+    background-image: "/assets/img/flags/cd.svg";
+}
+
+.flag-cf {
+    background-image: "/assets/img/flags/cf.svg";
+}
+
+.flag-cg {
+    background-image: "/assets/img/flags/cg.svg";
+}
+
+.flag-ch {
+    background-image: "/assets/img/flags/ch.svg";
+}
+
+.flag-ci {
+    background-image: "/assets/img/flags/ci.svg";
+}
+
+.flag-ck {
+    background-image: "/assets/img/flags/ck.svg";
+}
+
+.flag-cl {
+    background-image: "/assets/img/flags/cl.svg";
+}
+
+.flag-cm {
+    background-image: "/assets/img/flags/cm.svg";
+}
+
+.flag-cn {
+    background-image: "/assets/img/flags/cn.svg";
+}
+
+.flag-co {
+    background-image: "/assets/img/flags/co.svg";
+}
+
+.flag-cr {
+    background-image: "/assets/img/flags/cr.svg";
+}
+
+.flag-cu {
+    background-image: "/assets/img/flags/cu.svg";
+}
+
+.flag-cv {
+    background-image: "/assets/img/flags/cv.svg";
+}
+
+.flag-cw {
+    background-image: "/assets/img/flags/cw.svg";
+}
+
+.flag-cx {
+    background-image: "/assets/img/flags/cx.svg";
+}
+
+.flag-cy {
+    background-image: "/assets/img/flags/cy.svg";
+}
+
+.flag-cz {
+    background-image: "/assets/img/flags/cz.svg";
+}
+
+.flag-de {
+    background-image: "/assets/img/flags/de.svg";
+}
+
+.flag-dj {
+    background-image: "/assets/img/flags/dj.svg";
+}
+
+.flag-dk {
+    background-image: "/assets/img/flags/dk.svg";
+}
+
+.flag-dm {
+    background-image: "/assets/img/flags/dm.svg";
+}
+
+.flag-do {
+    background-image: "/assets/img/flags/do.svg";
+}
+
+.flag-dz {
+    background-image: "/assets/img/flags/dz.svg";
+}
+
+.flag-ec {
+    background-image: "/assets/img/flags/ec.svg";
+}
+
+.flag-ee {
+    background-image: "/assets/img/flags/ee.svg";
+}
+
+.flag-eg {
+    background-image: "/assets/img/flags/eg.svg";
+}
+
+.flag-eh {
+    background-image: "/assets/img/flags/eh.svg";
+}
+
+.flag-er {
+    background-image: "/assets/img/flags/er.svg";
+}
+
+.flag-es {
+    background-image: "/assets/img/flags/es.svg";
+}
+
+.flag-et {
+    background-image: "/assets/img/flags/et.svg";
+}
+
+.flag-eu {
+    background-image: "/assets/img/flags/eu.svg";
+}
+
+.flag-fi {
+    background-image: "/assets/img/flags/fi.svg";
+}
+
+.flag-fj {
+    background-image: "/assets/img/flags/fj.svg";
+}
+
+.flag-fk {
+    background-image: "/assets/img/flags/fk.svg";
+}
+
+.flag-fm {
+    background-image: "/assets/img/flags/fm.svg";
+}
+
+.flag-fo {
+    background-image: "/assets/img/flags/fo.svg";
+}
+
+.flag-fr {
+    background-image: "/assets/img/flags/fr.svg";
+}
+
+.flag-ga {
+    background-image: "/assets/img/flags/ga.svg";
+}
+
+.flag-gb-eng {
+    background-image: "/assets/img/flags/gb-eng.svg";
+}
+
+.flag-gb-nir {
+    background-image: "/assets/img/flags/gb-nir.svg";
+}
+
+.flag-gb-sct {
+    background-image: "/assets/img/flags/gb-sct.svg";
+}
+
+.flag-gb-wls {
+    background-image: "/assets/img/flags/gb-wls.svg";
+}
+
+.flag-gb {
+    background-image: "/assets/img/flags/gb.svg";
+}
+
+.flag-gd {
+    background-image: "/assets/img/flags/gd.svg";
+}
+
+.flag-ge {
+    background-image: "/assets/img/flags/ge.svg";
+}
+
+.flag-gf {
+    background-image: "/assets/img/flags/gf.svg";
+}
+
+.flag-gg {
+    background-image: "/assets/img/flags/gg.svg";
+}
+
+.flag-gh {
+    background-image: "/assets/img/flags/gh.svg";
+}
+
+.flag-gi {
+    background-image: "/assets/img/flags/gi.svg";
+}
+
+.flag-gl {
+    background-image: "/assets/img/flags/gl.svg";
+}
+
+.flag-gm {
+    background-image: "/assets/img/flags/gm.svg";
+}
+
+.flag-gn {
+    background-image: "/assets/img/flags/gn.svg";
+}
+
+.flag-gp {
+    background-image: "/assets/img/flags/gp.svg";
+}
+
+.flag-gq {
+    background-image: "/assets/img/flags/gq.svg";
+}
+
+.flag-gr {
+    background-image: "/assets/img/flags/gr.svg";
+}
+
+.flag-gs {
+    background-image: "/assets/img/flags/gs.svg";
+}
+
+.flag-gt {
+    background-image: "/assets/img/flags/gt.svg";
+}
+
+.flag-gu {
+    background-image: "/assets/img/flags/gu.svg";
+}
+
+.flag-gw {
+    background-image: "/assets/img/flags/gw.svg";
+}
+
+.flag-gy {
+    background-image: "/assets/img/flags/gy.svg";
+}
+
+.flag-hk {
+    background-image: "/assets/img/flags/hk.svg";
+}
+
+.flag-hm {
+    background-image: "/assets/img/flags/hm.svg";
+}
+
+.flag-hn {
+    background-image: "/assets/img/flags/hn.svg";
+}
+
+.flag-hr {
+    background-image: "/assets/img/flags/hr.svg";
+}
+
+.flag-ht {
+    background-image: "/assets/img/flags/ht.svg";
+}
+
+.flag-hu {
+    background-image: "/assets/img/flags/hu.svg";
+}
+
+.flag-id {
+    background-image: "/assets/img/flags/id.svg";
+}
+
+.flag-ie {
+    background-image: "/assets/img/flags/ie.svg";
+}
+
+.flag-il {
+    background-image: "/assets/img/flags/il.svg";
+}
+
+.flag-im {
+    background-image: "/assets/img/flags/im.svg";
+}
+
+.flag-in {
+    background-image: "/assets/img/flags/in.svg";
+}
+
+.flag-io {
+    background-image: "/assets/img/flags/io.svg";
+}
+
+.flag-iq {
+    background-image: "/assets/img/flags/iq.svg";
+}
+
+.flag-ir {
+    background-image: "/assets/img/flags/ir.svg";
+}
+
+.flag-is {
+    background-image: "/assets/img/flags/is.svg";
+}
+
+.flag-it {
+    background-image: "/assets/img/flags/it.svg";
+}
+
+.flag-je {
+    background-image: "/assets/img/flags/je.svg";
+}
+
+.flag-jm {
+    background-image: "/assets/img/flags/jm.svg";
+}
+
+.flag-jo {
+    background-image: "/assets/img/flags/jo.svg";
+}
+
+.flag-jp {
+    background-image: "/assets/img/flags/jp.svg";
+}
+
+.flag-ke {
+    background-image: "/assets/img/flags/ke.svg";
+}
+
+.flag-kg {
+    background-image: "/assets/img/flags/kg.svg";
+}
+
+.flag-kh {
+    background-image: "/assets/img/flags/kh.svg";
+}
+
+.flag-ki {
+    background-image: "/assets/img/flags/ki.svg";
+}
+
+.flag-km {
+    background-image: "/assets/img/flags/km.svg";
+}
+
+.flag-kn {
+    background-image: "/assets/img/flags/kn.svg";
+}
+
+.flag-kp {
+    background-image: "/assets/img/flags/kp.svg";
+}
+
+.flag-kr {
+    background-image: "/assets/img/flags/kr.svg";
+}
+
+.flag-kw {
+    background-image: "/assets/img/flags/kw.svg";
+}
+
+.flag-ky {
+    background-image: "/assets/img/flags/ky.svg";
+}
+
+.flag-kz {
+    background-image: "/assets/img/flags/kz.svg";
+}
+
+.flag-la {
+    background-image: "/assets/img/flags/la.svg";
+}
+
+.flag-lb {
+    background-image: "/assets/img/flags/lb.svg";
+}
+
+.flag-lc {
+    background-image: "/assets/img/flags/lc.svg";
+}
+
+.flag-li {
+    background-image: "/assets/img/flags/li.svg";
+}
+
+.flag-lk {
+    background-image: "/assets/img/flags/lk.svg";
+}
+
+.flag-lr {
+    background-image: "/assets/img/flags/lr.svg";
+}
+
+.flag-ls {
+    background-image: "/assets/img/flags/ls.svg";
+}
+
+.flag-lt {
+    background-image: "/assets/img/flags/lt.svg";
+}
+
+.flag-lu {
+    background-image: "/assets/img/flags/lu.svg";
+}
+
+.flag-lv {
+    background-image: "/assets/img/flags/lv.svg";
+}
+
+.flag-ly {
+    background-image: "/assets/img/flags/ly.svg";
+}
+
+.flag-ma {
+    background-image: "/assets/img/flags/ma.svg";
+}
+
+.flag-mc {
+    background-image: "/assets/img/flags/mc.svg";
+}
+
+.flag-md {
+    background-image: "/assets/img/flags/md.svg";
+}
+
+.flag-me {
+    background-image: "/assets/img/flags/me.svg";
+}
+
+.flag-mf {
+    background-image: "/assets/img/flags/mf.svg";
+}
+
+.flag-mg {
+    background-image: "/assets/img/flags/mg.svg";
+}
+
+.flag-mh {
+    background-image: "/assets/img/flags/mh.svg";
+}
+
+.flag-mk {
+    background-image: "/assets/img/flags/mk.svg";
+}
+
+.flag-ml {
+    background-image: "/assets/img/flags/ml.svg";
+}
+
+.flag-mm {
+    background-image: "/assets/img/flags/mm.svg";
+}
+
+.flag-mn {
+    background-image: "/assets/img/flags/mn.svg";
+}
+
+.flag-mo {
+    background-image: "/assets/img/flags/mo.svg";
+}
+
+.flag-mp {
+    background-image: "/assets/img/flags/mp.svg";
+}
+
+.flag-mq {
+    background-image: "/assets/img/flags/mq.svg";
+}
+
+.flag-mr {
+    background-image: "/assets/img/flags/mr.svg";
+}
+
+.flag-ms {
+    background-image: "/assets/img/flags/ms.svg";
+}
+
+.flag-mt {
+    background-image: "/assets/img/flags/mt.svg";
+}
+
+.flag-mu {
+    background-image: "/assets/img/flags/mu.svg";
+}
+
+.flag-mv {
+    background-image: "/assets/img/flags/mv.svg";
+}
+
+.flag-mw {
+    background-image: "/assets/img/flags/mw.svg";
+}
+
+.flag-mx {
+    background-image: "/assets/img/flags/mx.svg";
+}
+
+.flag-my {
+    background-image: "/assets/img/flags/my.svg";
+}
+
+.flag-mz {
+    background-image: "/assets/img/flags/mz.svg";
+}
+
+.flag-na {
+    background-image: "/assets/img/flags/na.svg";
+}
+
+.flag-nc {
+    background-image: "/assets/img/flags/nc.svg";
+}
+
+.flag-ne {
+    background-image: "/assets/img/flags/ne.svg";
+}
+
+.flag-nf {
+    background-image: "/assets/img/flags/nf.svg";
+}
+
+.flag-ng {
+    background-image: "/assets/img/flags/ng.svg";
+}
+
+.flag-ni {
+    background-image: "/assets/img/flags/ni.svg";
+}
+
+.flag-nl {
+    background-image: "/assets/img/flags/nl.svg";
+}
+
+.flag-no {
+    background-image: "/assets/img/flags/no.svg";
+}
+
+.flag-np {
+    background-image: "/assets/img/flags/np.svg";
+}
+
+.flag-nr {
+    background-image: "/assets/img/flags/nr.svg";
+}
+
+.flag-nu {
+    background-image: "/assets/img/flags/nu.svg";
+}
+
+.flag-nz {
+    background-image: "/assets/img/flags/nz.svg";
+}
+
+.flag-om {
+    background-image: "/assets/img/flags/om.svg";
+}
+
+.flag-pa {
+    background-image: "/assets/img/flags/pa.svg";
+}
+
+.flag-pe {
+    background-image: "/assets/img/flags/pe.svg";
+}
+
+.flag-pf {
+    background-image: "/assets/img/flags/pf.svg";
+}
+
+.flag-pg {
+    background-image: "/assets/img/flags/pg.svg";
+}
+
+.flag-ph {
+    background-image: "/assets/img/flags/ph.svg";
+}
+
+.flag-pk {
+    background-image: "/assets/img/flags/pk.svg";
+}
+
+.flag-pl {
+    background-image: "/assets/img/flags/pl.svg";
+}
+
+.flag-pm {
+    background-image: "/assets/img/flags/pm.svg";
+}
+
+.flag-pn {
+    background-image: "/assets/img/flags/pn.svg";
+}
+
+.flag-pr {
+    background-image: "/assets/img/flags/pr.svg";
+}
+
+.flag-ps {
+    background-image: "/assets/img/flags/ps.svg";
+}
+
+.flag-pt {
+    background-image: "/assets/img/flags/pt.svg";
+}
+
+.flag-pw {
+    background-image: "/assets/img/flags/pw.svg";
+}
+
+.flag-py {
+    background-image: "/assets/img/flags/py.svg";
+}
+
+.flag-qa {
+    background-image: "/assets/img/flags/qa.svg";
+}
+
+.flag-re {
+    background-image: "/assets/img/flags/re.svg";
+}
+
+.flag-ro {
+    background-image: "/assets/img/flags/ro.svg";
+}
+
+.flag-rs {
+    background-image: "/assets/img/flags/rs.svg";
+}
+
+.flag-ru {
+    background-image: "/assets/img/flags/ru.svg";
+}
+
+.flag-rw {
+    background-image: "/assets/img/flags/rw.svg";
+}
+
+.flag-sa {
+    background-image: "/assets/img/flags/sa.svg";
+}
+
+.flag-sb {
+    background-image: "/assets/img/flags/sb.svg";
+}
+
+.flag-sc {
+    background-image: "/assets/img/flags/sc.svg";
+}
+
+.flag-sd {
+    background-image: "/assets/img/flags/sd.svg";
+}
+
+.flag-se {
+    background-image: "/assets/img/flags/se.svg";
+}
+
+.flag-sg {
+    background-image: "/assets/img/flags/sg.svg";
+}
+
+.flag-sh {
+    background-image: "/assets/img/flags/sh.svg";
+}
+
+.flag-si {
+    background-image: "/assets/img/flags/si.svg";
+}
+
+.flag-sj {
+    background-image: "/assets/img/flags/sj.svg";
+}
+
+.flag-sk {
+    background-image: "/assets/img/flags/sk.svg";
+}
+
+.flag-sl {
+    background-image: "/assets/img/flags/sl.svg";
+}
+
+.flag-sm {
+    background-image: "/assets/img/flags/sm.svg";
+}
+
+.flag-sn {
+    background-image: "/assets/img/flags/sn.svg";
+}
+
+.flag-so {
+    background-image: "/assets/img/flags/so.svg";
+}
+
+.flag-sr {
+    background-image: "/assets/img/flags/sr.svg";
+}
+
+.flag-ss {
+    background-image: "/assets/img/flags/ss.svg";
+}
+
+.flag-st {
+    background-image: "/assets/img/flags/st.svg";
+}
+
+.flag-sv {
+    background-image: "/assets/img/flags/sv.svg";
+}
+
+.flag-sx {
+    background-image: "/assets/img/flags/sx.svg";
+}
+
+.flag-sy {
+    background-image: "/assets/img/flags/sy.svg";
+}
+
+.flag-sz {
+    background-image: "/assets/img/flags/sz.svg";
+}
+
+.flag-tc {
+    background-image: "/assets/img/flags/tc.svg";
+}
+
+.flag-td {
+    background-image: "/assets/img/flags/td.svg";
+}
+
+.flag-tf {
+    background-image: "/assets/img/flags/tf.svg";
+}
+
+.flag-tg {
+    background-image: "/assets/img/flags/tg.svg";
+}
+
+.flag-th {
+    background-image: "/assets/img/flags/th.svg";
+}
+
+.flag-tj {
+    background-image: "/assets/img/flags/tj.svg";
+}
+
+.flag-tk {
+    background-image: "/assets/img/flags/tk.svg";
+}
+
+.flag-tl {
+    background-image: "/assets/img/flags/tl.svg";
+}
+
+.flag-tm {
+    background-image: "/assets/img/flags/tm.svg";
+}
+
+.flag-tn {
+    background-image: "/assets/img/flags/tn.svg";
+}
+
+.flag-to {
+    background-image: "/assets/img/flags/to.svg";
+}
+
+.flag-tr {
+    background-image: "/assets/img/flags/tr.svg";
+}
+
+.flag-tt {
+    background-image: "/assets/img/flags/tt.svg";
+}
+
+.flag-tv {
+    background-image: "/assets/img/flags/tv.svg";
+}
+
+.flag-tw {
+    background-image: "/assets/img/flags/tw.svg";
+}
+
+.flag-tz {
+    background-image: "/assets/img/flags/tz.svg";
+}
+
+.flag-ua {
+    background-image: "/assets/img/flags/ua.svg";
+}
+
+.flag-ug {
+    background-image: "/assets/img/flags/ug.svg";
+}
+
+.flag-um {
+    background-image: "/assets/img/flags/um.svg";
+}
+
+.flag-un {
+    background-image: "/assets/img/flags/un.svg";
+}
+
+.flag-us {
+    background-image: "/assets/img/flags/us.svg";
+}
+
+.flag-uy {
+    background-image: "/assets/img/flags/uy.svg";
+}
+
+.flag-uz {
+    background-image: "/assets/img/flags/uz.svg";
+}
+
+.flag-va {
+    background-image: "/assets/img/flags/va.svg";
+}
+
+.flag-vc {
+    background-image: "/assets/img/flags/vc.svg";
+}
+
+.flag-ve {
+    background-image: "/assets/img/flags/ve.svg";
+}
+
+.flag-vg {
+    background-image: "/assets/img/flags/vg.svg";
+}
+
+.flag-vi {
+    background-image: "/assets/img/flags/vi.svg";
+}
+
+.flag-vn {
+    background-image: "/assets/img/flags/vn.svg";
+}
+
+.flag-vu {
+    background-image: "/assets/img/flags/vu.svg";
+}
+
+.flag-wf {
+    background-image: "/assets/img/flags/wf.svg";
+}
+
+.flag-ws {
+    background-image: "/assets/img/flags/ws.svg";
+}
+
+.flag-ye {
+    background-image: "/assets/img/flags/ye.svg";
+}
+
+.flag-yt {
+    background-image: "/assets/img/flags/yt.svg";
+}
+
+.flag-za {
+    background-image: "/assets/img/flags/za.svg";
+}
+
+.flag-zm {
+    background-image: "/assets/img/flags/zm.svg";
+}
+
+.flag-zw {
+    background-image: "/assets/img/flags/zw.svg";
+}
+
+.payment {
+    width: 2.5rem;
+    height: 1.5rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.payment-2checkout-dark {
+    background-image: "/assets/img/payments/2checkout-dark.svg";
+}
+
+.payment-2checkout {
+    background-image: "/assets/img/payments/2checkout.svg";
+}
+
+.payment-alipay-dark {
+    background-image: "/assets/img/payments/alipay-dark.svg";
+}
+
+.payment-alipay {
+    background-image: "/assets/img/payments/alipay.svg";
+}
+
+.payment-amazon-dark {
+    background-image: "/assets/img/payments/amazon-dark.svg";
+}
+
+.payment-amazon {
+    background-image: "/assets/img/payments/amazon.svg";
+}
+
+.payment-americanexpress-dark {
+    background-image: "/assets/img/payments/americanexpress-dark.svg";
+}
+
+.payment-americanexpress {
+    background-image: "/assets/img/payments/americanexpress.svg";
+}
+
+.payment-applepay-dark {
+    background-image: "/assets/img/payments/applepay-dark.svg";
+}
+
+.payment-applepay {
+    background-image: "/assets/img/payments/applepay.svg";
+}
+
+.payment-bancontact-dark {
+    background-image: "/assets/img/payments/bancontact-dark.svg";
+}
+
+.payment-bancontact {
+    background-image: "/assets/img/payments/bancontact.svg";
+}
+
+.payment-bitcoin-dark {
+    background-image: "/assets/img/payments/bitcoin-dark.svg";
+}
+
+.payment-bitcoin {
+    background-image: "/assets/img/payments/bitcoin.svg";
+}
+
+.payment-bitpay-dark {
+    background-image: "/assets/img/payments/bitpay-dark.svg";
+}
+
+.payment-bitpay {
+    background-image: "/assets/img/payments/bitpay.svg";
+}
+
+.payment-cirrus-dark {
+    background-image: "/assets/img/payments/cirrus-dark.svg";
+}
+
+.payment-cirrus {
+    background-image: "/assets/img/payments/cirrus.svg";
+}
+
+.payment-clickandbuy-dark {
+    background-image: "/assets/img/payments/clickandbuy-dark.svg";
+}
+
+.payment-clickandbuy {
+    background-image: "/assets/img/payments/clickandbuy.svg";
+}
+
+.payment-coinkite-dark {
+    background-image: "/assets/img/payments/coinkite-dark.svg";
+}
+
+.payment-coinkite {
+    background-image: "/assets/img/payments/coinkite.svg";
+}
+
+.payment-dinersclub-dark {
+    background-image: "/assets/img/payments/dinersclub-dark.svg";
+}
+
+.payment-dinersclub {
+    background-image: "/assets/img/payments/dinersclub.svg";
+}
+
+.payment-directdebit-dark {
+    background-image: "/assets/img/payments/directdebit-dark.svg";
+}
+
+.payment-directdebit {
+    background-image: "/assets/img/payments/directdebit.svg";
+}
+
+.payment-discover-dark {
+    background-image: "/assets/img/payments/discover-dark.svg";
+}
+
+.payment-discover {
+    background-image: "/assets/img/payments/discover.svg";
+}
+
+.payment-dwolla-dark {
+    background-image: "/assets/img/payments/dwolla-dark.svg";
+}
+
+.payment-dwolla {
+    background-image: "/assets/img/payments/dwolla.svg";
+}
+
+.payment-ebay-dark {
+    background-image: "/assets/img/payments/ebay-dark.svg";
+}
+
+.payment-ebay {
+    background-image: "/assets/img/payments/ebay.svg";
+}
+
+.payment-eway-dark {
+    background-image: "/assets/img/payments/eway-dark.svg";
+}
+
+.payment-eway {
+    background-image: "/assets/img/payments/eway.svg";
+}
+
+.payment-giropay-dark {
+    background-image: "/assets/img/payments/giropay-dark.svg";
+}
+
+.payment-giropay {
+    background-image: "/assets/img/payments/giropay.svg";
+}
+
+.payment-googlewallet-dark {
+    background-image: "/assets/img/payments/googlewallet-dark.svg";
+}
+
+.payment-googlewallet {
+    background-image: "/assets/img/payments/googlewallet.svg";
+}
+
+.payment-ingenico-dark {
+    background-image: "/assets/img/payments/ingenico-dark.svg";
+}
+
+.payment-ingenico {
+    background-image: "/assets/img/payments/ingenico.svg";
+}
+
+.payment-jcb-dark {
+    background-image: "/assets/img/payments/jcb-dark.svg";
+}
+
+.payment-jcb {
+    background-image: "/assets/img/payments/jcb.svg";
+}
+
+.payment-klarna-dark {
+    background-image: "/assets/img/payments/klarna-dark.svg";
+}
+
+.payment-klarna {
+    background-image: "/assets/img/payments/klarna.svg";
+}
+
+.payment-laser-dark {
+    background-image: "/assets/img/payments/laser-dark.svg";
+}
+
+.payment-laser {
+    background-image: "/assets/img/payments/laser.svg";
+}
+
+.payment-maestro-dark {
+    background-image: "/assets/img/payments/maestro-dark.svg";
+}
+
+.payment-maestro {
+    background-image: "/assets/img/payments/maestro.svg";
+}
+
+.payment-mastercard-dark {
+    background-image: "/assets/img/payments/mastercard-dark.svg";
+}
+
+.payment-mastercard {
+    background-image: "/assets/img/payments/mastercard.svg";
+}
+
+.payment-monero-dark {
+    background-image: "/assets/img/payments/monero-dark.svg";
+}
+
+.payment-monero {
+    background-image: "/assets/img/payments/monero.svg";
+}
+
+.payment-neteller-dark {
+    background-image: "/assets/img/payments/neteller-dark.svg";
+}
+
+.payment-neteller {
+    background-image: "/assets/img/payments/neteller.svg";
+}
+
+.payment-ogone-dark {
+    background-image: "/assets/img/payments/ogone-dark.svg";
+}
+
+.payment-ogone {
+    background-image: "/assets/img/payments/ogone.svg";
+}
+
+.payment-okpay-dark {
+    background-image: "/assets/img/payments/okpay-dark.svg";
+}
+
+.payment-okpay {
+    background-image: "/assets/img/payments/okpay.svg";
+}
+
+.payment-paybox-dark {
+    background-image: "/assets/img/payments/paybox-dark.svg";
+}
+
+.payment-paybox {
+    background-image: "/assets/img/payments/paybox.svg";
+}
+
+.payment-paymill-dark {
+    background-image: "/assets/img/payments/paymill-dark.svg";
+}
+
+.payment-paymill {
+    background-image: "/assets/img/payments/paymill.svg";
+}
+
+.payment-payone-dark {
+    background-image: "/assets/img/payments/payone-dark.svg";
+}
+
+.payment-payone {
+    background-image: "/assets/img/payments/payone.svg";
+}
+
+.payment-payoneer-dark {
+    background-image: "/assets/img/payments/payoneer-dark.svg";
+}
+
+.payment-payoneer {
+    background-image: "/assets/img/payments/payoneer.svg";
+}
+
+.payment-paypal-dark {
+    background-image: "/assets/img/payments/paypal-dark.svg";
+}
+
+.payment-paypal {
+    background-image: "/assets/img/payments/paypal.svg";
+}
+
+.payment-paysafecard-dark {
+    background-image: "/assets/img/payments/paysafecard-dark.svg";
+}
+
+.payment-paysafecard {
+    background-image: "/assets/img/payments/paysafecard.svg";
+}
+
+.payment-payu-dark {
+    background-image: "/assets/img/payments/payu-dark.svg";
+}
+
+.payment-payu {
+    background-image: "/assets/img/payments/payu.svg";
+}
+
+.payment-payza-dark {
+    background-image: "/assets/img/payments/payza-dark.svg";
+}
+
+.payment-payza {
+    background-image: "/assets/img/payments/payza.svg";
+}
+
+.payment-ripple-dark {
+    background-image: "/assets/img/payments/ripple-dark.svg";
+}
+
+.payment-ripple {
+    background-image: "/assets/img/payments/ripple.svg";
+}
+
+.payment-sage-dark {
+    background-image: "/assets/img/payments/sage-dark.svg";
+}
+
+.payment-sage {
+    background-image: "/assets/img/payments/sage.svg";
+}
+
+.payment-sepa-dark {
+    background-image: "/assets/img/payments/sepa-dark.svg";
+}
+
+.payment-sepa {
+    background-image: "/assets/img/payments/sepa.svg";
+}
+
+.payment-shopify-dark {
+    background-image: "/assets/img/payments/shopify-dark.svg";
+}
+
+.payment-shopify {
+    background-image: "/assets/img/payments/shopify.svg";
+}
+
+.payment-skrill-dark {
+    background-image: "/assets/img/payments/skrill-dark.svg";
+}
+
+.payment-skrill {
+    background-image: "/assets/img/payments/skrill.svg";
+}
+
+.payment-solo-dark {
+    background-image: "/assets/img/payments/solo-dark.svg";
+}
+
+.payment-solo {
+    background-image: "/assets/img/payments/solo.svg";
+}
+
+.payment-square-dark {
+    background-image: "/assets/img/payments/square-dark.svg";
+}
+
+.payment-square {
+    background-image: "/assets/img/payments/square.svg";
+}
+
+.payment-stripe-dark {
+    background-image: "/assets/img/payments/stripe-dark.svg";
+}
+
+.payment-stripe {
+    background-image: "/assets/img/payments/stripe.svg";
+}
+
+.payment-switch-dark {
+    background-image: "/assets/img/payments/switch-dark.svg";
+}
+
+.payment-switch {
+    background-image: "/assets/img/payments/switch.svg";
+}
+
+.payment-ukash-dark {
+    background-image: "/assets/img/payments/ukash-dark.svg";
+}
+
+.payment-ukash {
+    background-image: "/assets/img/payments/ukash.svg";
+}
+
+.payment-unionpay-dark {
+    background-image: "/assets/img/payments/unionpay-dark.svg";
+}
+
+.payment-unionpay {
+    background-image: "/assets/img/payments/unionpay.svg";
+}
+
+.payment-verifone-dark {
+    background-image: "/assets/img/payments/verifone-dark.svg";
+}
+
+.payment-verifone {
+    background-image: "/assets/img/payments/verifone.svg";
+}
+
+.payment-verisign-dark {
+    background-image: "/assets/img/payments/verisign-dark.svg";
+}
+
+.payment-verisign {
+    background-image: "/assets/img/payments/verisign.svg";
+}
+
+.payment-visa-dark {
+    background-image: "/assets/img/payments/visa-dark.svg";
+}
+
+.payment-visa {
+    background-image: "/assets/img/payments/visa.svg";
+}
+
+.payment-webmoney-dark {
+    background-image: "/assets/img/payments/webmoney-dark.svg";
+}
+
+.payment-webmoney {
+    background-image: "/assets/img/payments/webmoney.svg";
+}
+
+.payment-westernunion-dark {
+    background-image: "/assets/img/payments/westernunion-dark.svg";
+}
+
+.payment-westernunion {
+    background-image: "/assets/img/payments/westernunion.svg";
+}
+
+.payment-worldpay-dark {
+    background-image: "/assets/img/payments/worldpay-dark.svg";
+}
+
+.payment-worldpay {
+    background-image: "/assets/img/payments/worldpay.svg";
+}
+
+svg {
+    -ms-touch-action: none;
+    touch-action: none;
+}
